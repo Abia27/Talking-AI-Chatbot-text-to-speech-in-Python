@@ -1,1 +1,1 @@
-Use Eleven Labs API along with python library for text to sppech (pyttsx3).
+Use Eleven Labs API along with python library for text to speech (pyttsx3).
